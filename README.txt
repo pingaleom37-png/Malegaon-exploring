@@ -12,3 +12,9 @@ DEPLOY:
 
 IMAGE NOTE:
 Included SVGs are original local starter illustrations, not downloaded photographs. If your instructor specifically requires real photos, replace each SVG with a licensed photo renamed to match the referenced filename, or update image paths consistently.
+
+
+CUSTOM PHOTOS
+The site now uses your uploaded photos as post-1.jpg through post-10.jpg. Keep these JPG files in the same folder as the HTML pages when uploading to GitHub/Vercel. Image paths in the HTML already point to these files.
+
+Photo note: One uploaded image contained an Alamy watermark and was not included. Make sure you have permission to publish all photos you use.
